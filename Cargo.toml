@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "The agent OS that evolves itself. "
 # handle the edge case from the last release
+# match the style used in the rest of the module
